@@ -1,4 +1,5 @@
 Joust for the CoCo 3 - Requires 512k
+
 This is a conversion of William's arcade classic video game Joust for the TRS Color Computer 3
 
 If you are going to use it please read the following, to get he most out of the game:
