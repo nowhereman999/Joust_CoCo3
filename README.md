@@ -27,5 +27,11 @@ Use the config program as described below to either select which keys are used f
 To configure or reset all the settings of the game type:
 RUN"CONFIG" [ENTER]
 
+I’d like to thank Einar Saukas for his cool ZX0 compressor and Doug Masten for porting the decompressor code to 6809 assembly and sharing it for us all to use.
+
 Enjoy Joust on the CoCo 3,
 Glen Hewlett
+
+History:
+V1.0 - Initial realease
+V1.1 - Added a CLR $FF40 as per Doug Masten, to shut off the drive motor just before game starts
