@@ -33,5 +33,7 @@ Enjoy Joust on the CoCo 3,
 Glen Hewlett
 
 History:
+
 V1.0 - Initial realease
+
 V1.1 - Added a CLR $FF40 as per Doug Masten, to shut off the drive motor just before game starts
